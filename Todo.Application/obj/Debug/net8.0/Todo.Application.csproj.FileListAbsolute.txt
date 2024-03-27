@@ -1,0 +1,15 @@
+C:\dev\Todo_Project\Todo\Todo.Application\bin\Debug\net8.0\Todo.Application.deps.json
+C:\dev\Todo_Project\Todo\Todo.Application\bin\Debug\net8.0\Todo.Application.dll
+C:\dev\Todo_Project\Todo\Todo.Application\bin\Debug\net8.0\Todo.Application.pdb
+C:\dev\Todo_Project\Todo\Todo.Application\bin\Debug\net8.0\Todo.Domain.dll
+C:\dev\Todo_Project\Todo\Todo.Application\bin\Debug\net8.0\Todo.Domain.pdb
+C:\dev\Todo_Project\Todo\Todo.Application\obj\Debug\net8.0\Todo.Application.csproj.AssemblyReference.cache
+C:\dev\Todo_Project\Todo\Todo.Application\obj\Debug\net8.0\Todo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Todo_Project\Todo\Todo.Application\obj\Debug\net8.0\Todo.Application.AssemblyInfoInputs.cache
+C:\dev\Todo_Project\Todo\Todo.Application\obj\Debug\net8.0\Todo.Application.AssemblyInfo.cs
+C:\dev\Todo_Project\Todo\Todo.Application\obj\Debug\net8.0\Todo.Application.csproj.CoreCompileInputs.cache
+C:\dev\Todo_Project\Todo\Todo.Application\obj\Debug\net8.0\Todo.Application.csproj.CopyComplete
+C:\dev\Todo_Project\Todo\Todo.Application\obj\Debug\net8.0\Todo.Application.dll
+C:\dev\Todo_Project\Todo\Todo.Application\obj\Debug\net8.0\refint\Todo.Application.dll
+C:\dev\Todo_Project\Todo\Todo.Application\obj\Debug\net8.0\Todo.Application.pdb
+C:\dev\Todo_Project\Todo\Todo.Application\obj\Debug\net8.0\ref\Todo.Application.dll

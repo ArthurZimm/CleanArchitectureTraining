@@ -1,0 +1,17 @@
+C:\dev\Todo_Project\Todo\Todo.Infra.Data\bin\Debug\net8.0\Todo.Infra.Data.deps.json
+C:\dev\Todo_Project\Todo\Todo.Infra.Data\bin\Debug\net8.0\Todo.Infra.Data.runtimeconfig.json
+C:\dev\Todo_Project\Todo\Todo.Infra.Data\bin\Debug\net8.0\Todo.Infra.Data.dll
+C:\dev\Todo_Project\Todo\Todo.Infra.Data\bin\Debug\net8.0\Todo.Infra.Data.pdb
+C:\dev\Todo_Project\Todo\Todo.Infra.Data\bin\Debug\net8.0\Todo.Domain.dll
+C:\dev\Todo_Project\Todo\Todo.Infra.Data\bin\Debug\net8.0\Todo.Domain.pdb
+C:\dev\Todo_Project\Todo\Todo.Infra.Data\obj\Debug\net8.0\Todo.Infra.Data.csproj.AssemblyReference.cache
+C:\dev\Todo_Project\Todo\Todo.Infra.Data\obj\Debug\net8.0\Todo.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Todo_Project\Todo\Todo.Infra.Data\obj\Debug\net8.0\Todo.Infra.Data.AssemblyInfoInputs.cache
+C:\dev\Todo_Project\Todo\Todo.Infra.Data\obj\Debug\net8.0\Todo.Infra.Data.AssemblyInfo.cs
+C:\dev\Todo_Project\Todo\Todo.Infra.Data\obj\Debug\net8.0\Todo.Infra.Data.csproj.CoreCompileInputs.cache
+C:\dev\Todo_Project\Todo\Todo.Infra.Data\obj\Debug\net8.0\Todo.Infra.Data.csproj.CopyComplete
+C:\dev\Todo_Project\Todo\Todo.Infra.Data\obj\Debug\net8.0\Todo.Infra.Data.dll
+C:\dev\Todo_Project\Todo\Todo.Infra.Data\obj\Debug\net8.0\refint\Todo.Infra.Data.dll
+C:\dev\Todo_Project\Todo\Todo.Infra.Data\obj\Debug\net8.0\Todo.Infra.Data.pdb
+C:\dev\Todo_Project\Todo\Todo.Infra.Data\obj\Debug\net8.0\Todo.Infra.Data.genruntimeconfig.cache
+C:\dev\Todo_Project\Todo\Todo.Infra.Data\obj\Debug\net8.0\ref\Todo.Infra.Data.dll
